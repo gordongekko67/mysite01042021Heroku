@@ -1,5 +1,3 @@
-conda update -n base conda
-conda update --all
 
 amqp==2.6.1
 asgiref==3.3.1
