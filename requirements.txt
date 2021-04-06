@@ -117,7 +117,7 @@ tinycss2==1.1.0
 toml==0.10.2
 
 
-ufw==0.36
+
 unattended-upgrades==0.1
 uritemplate==0.6
 urllib3==1.25.8
@@ -132,7 +132,6 @@ whitenoise==5.2.0
 wrapt==1.12.1
 xkit==0.0.0
 colorama==0.4.3
-
 Click==7.0
   
 
