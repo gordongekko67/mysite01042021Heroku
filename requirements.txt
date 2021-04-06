@@ -125,7 +125,7 @@ websockets==8.1
 Werkzeug==0.16.0
 whitenoise==5.2.0
 wrapt==1.12.1
-xkit==0.0.0
+
 colorama==0.4.3
 Click==7.0
   
